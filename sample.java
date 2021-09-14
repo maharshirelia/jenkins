@@ -1,4 +1,4 @@
-public class Simple{
+public class sample{
 public static void main(String args[]){
 System.out.println("Jenkins integration with GIT");
 }}
